@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/analytics.py": {
+      "runtime": "python3.11"
+    }
+  }
+}
+
